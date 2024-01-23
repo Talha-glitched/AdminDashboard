@@ -1,7 +1,8 @@
-                                            #Dashboard
+                                                              # Dashboard
+![Screenshot (31)](https://github.com/Talha-glitched/AdminDashboard/assets/104093033/e96cb0ea-fde0-4c2d-bd98-04f33f9bbf75)
 
 
-![Screenshot (30)](https://github.com/Talha-glitched/AdminDashboard/assets/104093033/e18b9bc6-170c-45ea-9421-880054da1b31)
+
 
 
 
