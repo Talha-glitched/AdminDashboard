@@ -1,3 +1,17 @@
+                                            #Dashboard
+
+
+![Screenshot (30)](https://github.com/Talha-glitched/AdminDashboard/assets/104093033/e18b9bc6-170c-45ea-9421-880054da1b31)
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
